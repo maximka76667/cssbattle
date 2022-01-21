@@ -1,27 +1,27 @@
 main {
-    background-color: #E3516E;
-    padding: 50px 100px;
-    display: flex;
-    flex-wrap: wrap;
+  background-color: #e3516e;
+  padding: 50px 100px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 div {
-    width: 100px;
-    height: 100px;
-    background-color: #F3AC3C;
+  width: 100px;
+  height: 100px;
+  background-color: #f3ac3c;
 }
 
 div:nth-child(1) {
-    border-radius: 100px 0 0;
-    background-color: #51B5A9;
+  border-radius: 100px 0 0;
+  background-color: #51b5a9;
 }
 
 div:nth-child(2) {
-    border-radius: 0 100px 0 0;
-    background-color: #FADE8B;
+  border-radius: 0 100px 0 0;
+  background-color: #fade8b;
 }
 
 div:nth-child(3) {
-    border-radius: 0 0 0 100px;
-    background-color: #F7F3D7;
+  border-radius: 0 0 0 100px;
+  background-color: #f7f3d7;
 }

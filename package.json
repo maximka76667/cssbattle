@@ -1,0 +1,23 @@
+{
+  "name": "CSSBattle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximka76667/CSSBattle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximka76667/CSSBattle/issues"
+  },
+  "homepage": "https://github.com/maximka76667/CSSBattle#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}

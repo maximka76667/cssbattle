@@ -1,18 +1,18 @@
 main {
-    background-color: #62306D;
-    display: flex;
-    padding: 50px;
-    align-items: flex-end;
+  background-color: #62306d;
+  display: flex;
+  padding: 50px;
+  align-items: flex-end;
 }
 
 div {
-    width: 100px;
-    height: 100px;
-    background-color: #F7EC7D;
-    border-radius: 0 0 50px 50px;
+  width: 100px;
+  height: 100px;
+  background-color: #f7ec7d;
+  border-radius: 0 0 50px 50px;
 }
 
 div:nth-child(2) {
-    align-self: start;
-    border-radius: 50px 50px 0 0;
+  align-self: start;
+  border-radius: 50px 50px 0 0;
 }
