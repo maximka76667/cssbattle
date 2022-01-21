@@ -1,6 +1,4 @@
-body {
-    height: 200px;
-    margin: 0;
+main {
     padding: 50px;
     background: #62374e;
     display: flex;

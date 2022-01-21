@@ -1,6 +1,4 @@
-body {
-    margin: 0;
-    height: 200px;
+main {
     background-color: #62306D;
     display: flex;
     padding: 50px;
