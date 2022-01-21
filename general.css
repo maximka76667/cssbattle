@@ -16,15 +16,7 @@ main {
   margin: 0 auto;
   position: relative;
   box-sizing: border-box;
-}
-
-main::before {
-  content: "400px x 300px";
-  position: absolute;
-  right: 0;
-  top: -30px;
-  font-size: 30px;
-  line-height: 30px;
+  overflow: hidden;
 }
 
 h1 {
