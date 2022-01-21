@@ -1,3 +1,3 @@
 # CSSBattle
 
-My solutions for cssbattle.dev tasks.
+My solutions for https://cssbattle.dev/ tasks.
