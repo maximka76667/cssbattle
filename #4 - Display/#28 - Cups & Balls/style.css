@@ -1,0 +1,32 @@
+main {
+  background: #1a4341;
+}
+.box {
+  width: 260px;
+  height: 120px;
+  margin: 90px auto;
+  display: grid;
+  grid-template-columns: repeat(4, 50px);
+  gap: 20px;
+}
+
+.figure {
+  width: 50px;
+  height: 50px;
+  background: #998235;
+  border-radius: 25px;
+}
+
+.figure:nth-child(2),
+.figure:nth-child(4),
+.figure:nth-child(2n + 5) {
+  background: #f3ac3c;
+}
+
+.cup_up {
+  border-radius: 25px 25px 0 0;
+}
+
+.cup_down {
+  border-radius: 0 0 25px 25px;
+}

@@ -1,0 +1,24 @@
+main {
+  background: #e38f66;
+}
+
+.circle {
+  margin: 50px auto;
+  width: 200px;
+  height: 200px;
+  background: #aa445f;
+  border-radius: 100px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.inner-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  border-bottom: 30px solid #f7ec7d;
+  border-left: 30px solid #aa445f;
+  border-right: 30px solid #aa445f;
+  border-top: 30px solid #f7ec7d;
+  transform: rotate(45deg);
+}

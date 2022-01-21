@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prettier": "npx prettier --check ."
+    "prettier": "npx prettier --write ."
   },
   "repository": {
     "type": "git",
