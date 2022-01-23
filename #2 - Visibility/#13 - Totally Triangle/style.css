@@ -1,0 +1,13 @@
+main {
+  background: #0B2429;
+}
+
+div {
+  width: 140px;
+  height: 140px;
+  border-top: 70px solid #F3AC3C;
+  border-left: 70px solid #F3AC3C;
+  border-right: 70px solid transparent;
+  border-bottom: 70px solid transparent;
+  box-sizing: border-box;
+}
