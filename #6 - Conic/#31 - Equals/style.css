@@ -1,0 +1,30 @@
+main {
+  display: flex;
+  background: #AA445F;
+  justify-content: space-between;
+}
+
+div {
+  width: 175px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+.sq {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  top: 50px;
+}
+
+.sq1 {
+  left: 75px;
+  background: #F7EC7D;
+}
+
+.sq2 {
+  right: 75px;
+  background: #E38F66;
+}
