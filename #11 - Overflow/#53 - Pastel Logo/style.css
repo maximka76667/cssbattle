@@ -1,0 +1,22 @@
+main {
+  background-color: #19191a;
+  padding: 125px;
+}
+
+.d1 {
+  width: 75px;
+  height: 125px;
+  background-color: #f9e492;
+  isolation: isolate;
+}
+
+.d2 {
+  position: absolute;
+  top: 50px;
+  left: 125px;
+  width: 150px;
+  height: 150px;
+  background-color: #4f77ff;
+  border-radius: 50%;
+  mix-blend-mode: hard-light;
+}
