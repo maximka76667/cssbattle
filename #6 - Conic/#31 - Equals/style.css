@@ -1,6 +1,6 @@
 main {
   display: flex;
-  background: #AA445F;
+  background: #aa445f;
   justify-content: space-between;
 }
 
@@ -21,10 +21,10 @@ div {
 
 .sq1 {
   left: 75px;
-  background: #F7EC7D;
+  background: #f7ec7d;
 }
 
 .sq2 {
   right: 75px;
-  background: #E38F66;
+  background: #e38f66;
 }

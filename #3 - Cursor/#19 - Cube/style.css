@@ -1,0 +1,35 @@
+main {
+  padding: 135px 150px;
+  background: #0b2429;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background: #f3ac3c;
+  transform: rotate(45deg);
+}
+
+div:before {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 70px;
+  top: -10px;
+  left: -60px;
+  position: absolute;
+  background: #998235;
+  transform: rotate(45deg) skew(45deg);
+}
+
+div:after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 70px;
+  top: -60px;
+  left: -10px;
+  position: absolute;
+  background: #1a4341;
+  transform: rotate(45deg) skew(-45deg);
+}

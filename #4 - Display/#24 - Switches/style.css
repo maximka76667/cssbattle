@@ -1,7 +1,7 @@
 main {
   padding: 100px 80px;
   display: flex;
-  background: #62306D;
+  background: #62306d;
   z-index: -1;
 }
 
@@ -9,7 +9,7 @@ div {
   width: 100px;
   height: 100px;
   border-radius: 50px;
-  background: #F7EC7D;
+  background: #f7ec7d;
   position: relative;
 }
 
@@ -18,7 +18,7 @@ div:nth-child(1) {
 }
 
 div:before {
-  content: '';
+  content: "";
   left: 0;
   right: 0;
   position: absolute;
@@ -27,13 +27,13 @@ div:before {
 }
 
 div:nth-child(1):before {
-  background: #AA445F;
+  background: #aa445f;
   top: -50px;
   bottom: 0;
 }
 
 div:nth-child(2):before {
-  background: #E38F66;
+  background: #e38f66;
   top: 0;
   bottom: -50px;
 }
