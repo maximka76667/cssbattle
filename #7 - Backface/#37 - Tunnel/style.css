@@ -1,0 +1,28 @@
+main {
+  padding: 25px 75px;
+  background: #6592cf;
+}
+
+.l {
+  width: 250px;
+  height: 250px;
+  background: #243d83;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.m {
+  width: 150px;
+  height: 150px;
+  background: #6592cf;
+  transform: rotate(-165deg);
+  padding: 37px;
+  box-sizing: border-box;
+}
+
+.s {
+  width: 75px;
+  height: 75px;
+  transform: rotate(-165deg);
+  background: #243d83;
+}

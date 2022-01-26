@@ -1,0 +1,63 @@
+main {
+  padding: 100px;
+  display: flex;
+  background: #62306d;
+}
+
+.d1 {
+  width: 140px;
+  height: 100px;
+  background: #f7ec7d;
+}
+
+.d2 {
+  width: 60px;
+  height: 100px;
+  background: #e38f66;
+}
+
+.c {
+  border-radius: 40px;
+  background: #62306d;
+  position: absolute;
+}
+
+.c_large {
+  width: 40px;
+  height: 40px;
+}
+
+.c_small {
+  width: 20px;
+  height: 20px;
+}
+
+.c1 {
+  top: 80px;
+  left: 80px;
+}
+
+.c2 {
+  top: 90px;
+  left: 230px;
+}
+
+.c3 {
+  top: 80px;
+  left: 280px;
+}
+
+.c4 {
+  top: 180px;
+  left: 80px;
+}
+
+.c5 {
+  top: 190px;
+  left: 230px;
+}
+
+.c6 {
+  top: 180px;
+  left: 280px;
+}
