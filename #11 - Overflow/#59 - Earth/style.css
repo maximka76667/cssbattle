@@ -1,0 +1,47 @@
+main {
+  padding: 75px 125px;
+  background: #191919;
+}
+
+.c {
+  width: 150px;
+  height: 150px;
+  background: #4f77ff;
+  border-radius: 75px;
+  position: relative;
+}
+
+.l {
+  width: 150px;
+  height: 10px;
+  background: #191919;
+  position: absolute;
+}
+
+.l1 {
+  top: 30px;
+}
+
+.l2 {
+  top: 70px;
+}
+
+.l3 {
+  top: 110px;
+}
+
+.l4 {
+  top: 70px;
+  transform: rotate(90deg);
+}
+
+.l56 {
+  top: -5px;
+  left: 30px;
+  width: 90px;
+  height: 160px;
+  border-radius: 50%;
+  border: 10px solid #191919;
+  box-sizing: border-box;
+  background: transparent;
+}
