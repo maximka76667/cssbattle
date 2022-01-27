@@ -1,0 +1,21 @@
+main {
+  padding: 50px 100px;
+  background: #6592cf;
+}
+
+.c {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background: #6592cf;
+  border: 50px solid #243d83;
+}
+
+.b {
+  width: 50px;
+  height: 100px;
+  background: #243d83;
+  position: absolute;
+  top: 50px;
+  border-right: 50px solid #6592cf;
+}
