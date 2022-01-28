@@ -1,39 +1,12 @@
-main {
-  display: flex;
-  padding: 110px 50px;
-  justify-content: space-between;
-  background: #191210;
-}
-
 div {
-  width: 50px;
-  height: 50px;
-  background: #84271c;
   border-radius: 50px;
-  box-sizing: border-box;
 }
 
 .s {
   width: 100px;
   height: 100px;
-  border-top: 20px solid #eca03d;
-  border-left: 20px solid #eca03d;
-  border-right: 20px solid transparent;
-  border-bottom: 20px solid transparent;
   box-sizing: border-box;
   transform: rotate(45deg);
   margin-top: -10px;
   background: transparent;
-}
-
-.s:nth-of-type(1) {
-  border-top: 20px solid transparent;
-  border-left: 20px solid transparent;
-  border-right: 20px solid #eca03d;
-  border-bottom: 20px solid #eca03d;
-}
-
-.m {
-  margin-top: 15px;
-  box-shadow: 0 0 0 25px #191210, 0 0 0 45px #eca03d;
 }
