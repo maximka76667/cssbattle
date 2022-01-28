@@ -1,0 +1,22 @@
+div {
+  width: 60px;
+  height: 60px;
+  background: #e38f66;
+  border-radius: 100px;
+  margin-top: 100px;
+  position: relative;
+  border: 20px solid #aa445f;
+}
+
+div:before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  width: 100px;
+  height: 500px;
+  display: block;
+  background: #f7ec7d;
+  z-index: -1;
+  border-radius: 50px;
+}
