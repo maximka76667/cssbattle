@@ -1,17 +1,17 @@
 .hair {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    top: -50px;
-    border-radius: 50%;
-    background: #FFF1C1;
-  }
-  
-  .eye {
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    top: 90px;
-    background: #FFF1C1;
-    border-radius: 50%;
-  }
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: -50px;
+  border-radius: 50%;
+  background: #fff1c1;
+}
+
+.eye {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 90px;
+  background: #fff1c1;
+  border-radius: 50%;
+}
